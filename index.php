@@ -41,7 +41,7 @@
 		</ol>
 
 		<h2>
-			<img src="images/skate.jpg">
+			<img src="images/skate.jpg" alt="Frontside Grind">
 
 		</h2>
 	</body>
