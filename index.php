@@ -25,5 +25,12 @@
 				<td>german shepard</td>
 			</tr>
 		</table>
+		<!-- this is an html comment -->
+		<h2>A few of my favorite things</h2>
+		<ul>
+			<li>Tacos</li>
+			<li>The Beach</li>
+			<li>Snow</li>
+		</ul>
 	</body>
 </html>
