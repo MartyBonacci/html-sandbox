@@ -39,5 +39,10 @@
 			<li>Homework</li>
 			<li>Make cool stuff</li>
 		</ol>
+
+		<h2>
+			<img src="images/skate.jpg">
+
+		</h2>
 	</body>
 </html>
