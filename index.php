@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		<title>Basic HTML Page</title>
+		<title>qHTML Sandbox</title>
 	</head>
 	<body>
 		<h1>Hello, World! :D</h1>
