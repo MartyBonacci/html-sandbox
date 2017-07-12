@@ -32,5 +32,12 @@
 			<li>The Beach</li>
 			<li>Snow</li>
 		</ul>
+
+		<h2>Things To Do Today</h2>
+		<ol>
+			<li>Sign in at bootcamp</li>
+			<li>Homework</li>
+			<li>Make cool stuff</li>
+		</ol>
 	</body>
 </html>
